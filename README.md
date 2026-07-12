@@ -1,5 +1,3 @@
-# Cloud-Controlled-IoT-Rover
-An ESP32-S3 cloud-controlled rover powered by MQTT, featuring real-time web control and adjustable speed. It can be controlled from anywhere over internet.
 # 🚗 Cloud-Controlled IoT Rover using AtumX Subo Super Board
 
 Control your robot from **anywhere in the world** using MQTT and a web browser.
@@ -26,7 +24,7 @@ Control your robot from **anywhere in the world** using MQTT and a web browser.
 - Li-ion Battery
 
 ---
-
+learn how to use mqtt: https://youtube.com/shorts/glH1SC225QY?si=H83kZVBTFfEJ5kIu
 ## Software
 
 - Trix app by AtumX
